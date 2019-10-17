@@ -1,0 +1,28 @@
+/* BASE */
+
+body {background: #ECF0F1;}
+
+
+/* ELEMENTS */
+
+.gallery__photos {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
+
+.gallery__title {
+  border-bottom: 2px solid  #D6D6D6;
+  width: 30%;
+  padding-bottom: 20px;
+
+  text-transform: uppercase;
+  transform: scaleY(0.95);
+
+  font-family: 'Raleway';
+  margin-left: 1.66%;
+  font-size: 25px;
+  font-weight: 800;
+
+}
+
